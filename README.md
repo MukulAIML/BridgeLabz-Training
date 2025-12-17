@@ -1,2 +1,1 @@
-# BridgeLabz-Training
-BridgeLabz-Training
+# BridgeLabz Training
