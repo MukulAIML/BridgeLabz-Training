@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q2(AddtwoNum){
+public class AddtwoNum{
  public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     int num1 = sc.nextInt();

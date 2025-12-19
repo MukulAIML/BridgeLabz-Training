@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q9(Average){
+public class Average{
  public static void main(String[] args){
    Scanner sc = new Scanner(System.in);
    System.out.println("Enter the 1st No.: ");
