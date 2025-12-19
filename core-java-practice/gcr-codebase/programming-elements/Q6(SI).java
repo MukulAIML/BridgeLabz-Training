@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SI{
+public class Q6(SI){
  public static void main(String[] args){
    Scanner sc = new Scanner(System.in);
    System.out.println("Enter the Principle: ");

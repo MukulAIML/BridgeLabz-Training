@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class operation{
+public class Q7(IntOperations){
  public static void main(String[] args){
  Scanner sc = new Scanner(System.in);
  int a = sc.nextInt();
@@ -9,6 +9,6 @@ public class operation{
    int second = a*b+b;
    int third = c+a/b;
    int fourth = a%b+c;
-   System.out.println("The results of Double Operations are "+first+","+second+","+third+" and "+fourth);
+   System.out.println("The results of Int Operations are "+first+","+second+","+third+" and "+fourth);
 }
 }

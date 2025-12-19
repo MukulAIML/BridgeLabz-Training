@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pen{
+public class Q5(PenHandeling){
  public static void main(String[] args){
    int pene = 14/3;
    int rem = 14%3;

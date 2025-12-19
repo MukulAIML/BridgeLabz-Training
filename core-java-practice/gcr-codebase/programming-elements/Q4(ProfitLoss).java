@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class profit{
+public class Q4(ProfitLoss){
  public static void main(String[] args){
    int cp = 129;
    int sp = 191;

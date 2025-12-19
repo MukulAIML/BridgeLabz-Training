@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Area_Tri{
+public class Q2(AreaTriangle){
  public static void main(String[] args){
  Scanner sc = new Scanner(System.in);
  System.out.println("Enter base(in cm): ");

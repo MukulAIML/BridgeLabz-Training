@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q18{
+public class Q8(doubleOperations){
  public static void main(String[] args){
  Scanner sc = new Scanner(System.in);
  double a = sc.nextInt();
