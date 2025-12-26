@@ -22,8 +22,8 @@ Solved several problem-oriented questions using Java.
 
 Worked on Java array concepts including declaration, initialization, and traversal.  
 Practiced Java string handling and common built-in string methods.  
-[Solutions – Arrays](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)  
-[Solutions – Strings](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+[Solutions](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)  
+[Solutions](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 ## 21 Dec 2025 – Scenario-Based Java Problems
 
