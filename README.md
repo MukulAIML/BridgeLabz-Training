@@ -10,7 +10,7 @@ GitHub repository along with the coding environment was configured.
 ## 17-18 Dec 2025 – Java Fundamentals
 
 Completed and submitted introductory programming exercises in Java.
-[Programming-Elements](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+[Programming-Elements](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)  
 
 ## 18–19 Dec 2025 – Control Flow Statements
 
