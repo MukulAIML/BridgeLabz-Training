@@ -12,12 +12,14 @@ GitHub repository along with the coding environment was configured.
 
 Gone through the basics of Java through the pdf content provided. 
 Solved 5 leetcode-based questions on Core Java.
+
 [Leetcode-codebase](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 
 ## 18 Dec 2025 – Practice Problems and Programming Elements
 
 Completed introductory programming exercises and rogramming element problems in Java.
+
 [Programming-Elements](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 
@@ -25,18 +27,21 @@ Completed introductory programming exercises and rogramming element problems in 
 
 Tasks focused on if, else, and decision-making logic
 Solved several problem-oriented questions using Java.
+
 [Control-Flows](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 
 ## 20 Dec 2025 – Arrays
 
 Worked on Java array concepts including declaration, initialization, and traversal.   
+
 [Arrays](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)  
 
 
 ## 21 Dec 2025 – Core-java Scenario based
 
 Solved 2 scenario-based questions on core-java.  
+
 [Scenario-Based](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)  
 
 
