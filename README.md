@@ -60,7 +60,9 @@ Practiced Java string handling and common built-in java methords, string methods
 
 Learned basic object-oriented programming concepts including classes, objects, methods, constructors, instance variables, class variables, and access modifiers.  
 Completed and submitted foundational OOP practice programs.  
+
 [Class and Objects](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Class%20and%20Objects)
+
 [Constructor](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Constructor)
 
 
@@ -68,7 +70,9 @@ Completed and submitted foundational OOP practice programs.
 
 Worked on inheritance concepts and object-oriented design principles.  
 Practiced object modeling and class diagram-based problem solving.  
+
 [Inheritance](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Inheritance)
+
 [Design Principles](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Design%20Principles)
 
 
@@ -76,7 +80,9 @@ Practiced object modeling and class diagram-based problem solving.
 
 Implemented programs demonstrating encapsulation, interfaces, abstract classes, and polymorphism.  
 Focused on understanding core OOP features through hands-on practice.  
+
 [Encapsulation, Interfaces, Abstract Classes, and Polymorphism.](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Polymorphism%2C%20Encapsulation%2C%20Interface%2C%20Abstract%20Class)
+
 [Staatic-Final Keyword](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/this%2C%20static%2C%20final%20key%20words)
 
 
@@ -84,7 +90,9 @@ Focused on understanding core OOP features through hands-on practice.
 
 Practiced basic data structures such as linked list, stack, and queue.
 Implemented data structures using Java.
+
 [LinkedList](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/gcr-codebase/LinkedList)
+
 [Stack & Queues](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/gcr-codebase/Stacks_Queues)
 
 
@@ -92,7 +100,9 @@ Implemented data structures using Java.
 
 Practiced basic data structures such as hashmap and sorting.
 Implemented data structures using Java.
+
 [Hashmaps](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/gcr-codebase/Hashmaps)
+
 [Sorting](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/gcr-codebase/Sorting)
 
 
@@ -100,19 +110,23 @@ Implemented data structures using Java.
 
 Implemented linear and binary search concept. 
 Solver problems releted to the concepts.
+
 [Linear-Binary Search](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/gcr-codebase/linear-and-binary-search)
 
 
 ## 1 Jan 2026 – Runtime Analysis
 
 Done Runtime analysis problems and understand the concepts.
+
 [Runtime Analysis](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/gcr-codebase/RuntimeAnalysis)
 
 
 ## 2 Jan 2026 – Generics & OOPS Scenario-based
 
 Practiced generics problems and done 2 scenario-based OOPS questions.
+
 [OOPS Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/scenario-based)
+
 [Generics](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Generics)
 
 
@@ -121,7 +135,9 @@ Practiced generics problems and done 2 scenario-based OOPS questions.
 Learned and practiced Java Collections including List, Set, and Map.
 Implemented programs using ArrayList, HashMap, and HashSet.
 Solved 2 Scenario-based Collection questions.
+
 [Collections](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Collections)
+
 [Conections Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/scenario-based)
 
 
@@ -129,6 +145,7 @@ Solved 2 Scenario-based Collection questions.
 
 Learned and practiced Java Collections including List, Set, and Map.
 Implemented programs using ArrayList, HashMap, and HashSet.
+
 [Collections](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Collections)
 
 
@@ -138,11 +155,14 @@ Compleated the review.
 Solved Scenario-based question named Online Examination System.
 Done 1 DSA and 2 conceptual questions.
 Done 2 leetcode questions regarding OOPS.
+
 [Review](https://github.com/MukulAIML/BridgeLabz-Training/tree/review)
+
 [OOPS Leetcode-codebased](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/leetcode-codebase)
 
 ## 7 Jan 2026 – Java Streams
 
 Done 10 Java Streams questions and learned the basic concepts.
+
 [Streams](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/JavaStreams)
 
