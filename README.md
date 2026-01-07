@@ -48,8 +48,11 @@ Solved 2 scenario-based questions on core-java.
 ## 22 Dec 2025 - Methords, Function & String Practices
 
 Practiced Java string handling and common built-in java methords, string methods and functions. 
+
 [Methords](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Methods) 
+
 [String](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
 [Functions](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Functions)
 
 
