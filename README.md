@@ -10,12 +10,14 @@ GitHub repository along with the coding environment was configured.
 ## 17-18 Dec 2025 – Java Fundamentals
 
 Completed and submitted introductory programming exercises in Java.
+
 [Programming-Elements](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 ## 18–19 Dec 2025 – Control Flow Statements
 
 Tasks focused on if, else, and decision-making logic
 Solved several problem-oriented questions using Java.
+
 [Control-Flows](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 ## 20 Dec 2025 – Arrays and Strings
@@ -30,7 +32,6 @@ Practiced Java string handling and common built-in string methods.
 Solved real-world scenario-based Java problems using variables, loops, conditional logic, functions and arithmetic operators.  
 Implemented problem statements focusing on clean code practices and logical flow.  
 [Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
-
 [Functions](https://github.com/MukulAIML/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Functions)
 
 ## 22 Dec 2025 – Object-Oriented Programming Fundamentals
@@ -38,7 +39,6 @@ Implemented problem statements focusing on clean code practices and logical flow
 Learned basic object-oriented programming concepts including classes, objects, methods, constructors, instance variables, class variables, and access modifiers.  
 Completed and submitted foundational OOP practice programs.  
 [Class and Objects](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Class%20and%20Objects)
-
 [Constructor](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Constructor)
 
 ## 23 Dec 2025 – Inheritance and OOP Design Principles
@@ -46,7 +46,6 @@ Completed and submitted foundational OOP practice programs.
 Worked on inheritance concepts and object-oriented design principles.  
 Practiced object modeling and class diagram-based problem solving.  
 [Inheritance](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Inheritance)
-
 [Design Principles](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Design%20Principles)
 
 
@@ -55,7 +54,6 @@ Practiced object modeling and class diagram-based problem solving.
 Implemented programs demonstrating encapsulation, interfaces, abstract classes, and polymorphism.  
 Focused on understanding core OOP features through hands-on practice.  
 [Encapsulation, Interfaces, Abstract Classes, and Polymorphism.](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/Polymorphism%2C%20Encapsulation%2C%20Interface%2C%20Abstract%20Class)
-
 [Staatic-Final Keyword](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/gcr-codebase/this%2C%20static%2C%20final%20key%20words)
 
 26–27 Dec 2025 – Java Collections Framework
