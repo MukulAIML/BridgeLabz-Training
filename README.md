@@ -160,9 +160,20 @@ Done 2 leetcode questions regarding OOPS.
 
 [OOPS Leetcode-codebased](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/leetcode-codebase)
 
+
 ## 7 Jan 2026 – Java Streams
 
 Done 10 Java Streams questions and learned the basic concepts.
 
-[Streams](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/JavaStreams)
+[Java Streams](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/JavaStreams)
 
+
+## 8 Jan 2026 – Exception Handeling
+
+Learned and practiced 10 Exception Handeling. 
+Practiced 10 questions related to the topic.
+
+[Streams](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Exceptions)
+
+
+## 9 Jan 2026 – 
