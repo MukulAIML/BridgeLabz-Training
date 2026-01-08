@@ -173,7 +173,7 @@ Done 10 Java Streams questions and learned the basic concepts.
 Learned and practiced 10 Exception Handeling. 
 Practiced 10 questions related to the topic.
 
-[Streams](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Exceptions)
+[Exception](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Exceptions)
 
 
 ## 9 Jan 2026 – 
