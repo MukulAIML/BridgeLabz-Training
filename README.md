@@ -177,3 +177,9 @@ Practiced 10 questions related to the topic.
 
 
 ## 9 Jan 2026 – 
+
+Done 2-2 Leetcode Question in DSA section and Collections section.
+
+[DSA Leetcode-codebase](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/leetcode-codebase)
+
+[Collection Leetcode-codebase](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/leetcode-codebase)
