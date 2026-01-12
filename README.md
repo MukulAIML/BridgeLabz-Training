@@ -183,3 +183,8 @@ Done 2-2 Leetcode Question in DSA section and Collections section.
 [DSA Leetcode-codebase](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/leetcode-codebase)
 
 [Collection Leetcode-codebase](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/leetcode-codebase)
+
+
+## 12 Jan 2026 – 
+
+Learned and practices problems related to Regex and JUnit.
