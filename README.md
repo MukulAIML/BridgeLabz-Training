@@ -187,4 +187,10 @@ Done 2-2 Leetcode Question in DSA section and Collections section.
 
 ## 12 Jan 2026 – Regex & JUnit
 
-Learned and practices problems related to Regex and JUnit.
+Learned the core concepts related to Regex and JUnit.
+Practiced ample problems related to these topics.
+
+[Regex](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Regex)
+
+[JUnit](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/JUnit)
+
