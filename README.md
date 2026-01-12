@@ -176,7 +176,7 @@ Practiced 10 questions related to the topic.
 [Exception](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Exceptions)
 
 
-## 9 Jan 2026 – 
+## 9 Jan 2026 – Leetcode Codebase
 
 Done 2-2 Leetcode Question in DSA section and Collections section.
 
@@ -185,6 +185,6 @@ Done 2-2 Leetcode Question in DSA section and Collections section.
 [Collection Leetcode-codebase](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/leetcode-codebase)
 
 
-## 12 Jan 2026 – Leetcode Codebase
+## 12 Jan 2026 – Regex & JUnit
 
 Learned and practices problems related to Regex and JUnit.
