@@ -198,6 +198,7 @@ Practiced ample problems related to these topics.
 ## 13 Jan 2026 – Merge Conflict
 
 Learned about merge conflict and the issued created by it.
+
 Practically created and resolved one with one of the colleague.
 
 [Merge-Conflict](https://github.com/MukulAIML/Merge-Conflict)
