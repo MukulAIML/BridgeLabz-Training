@@ -202,3 +202,18 @@ Learned about merge conflict and the issued created by it.
 Practically created and resolved one with one of the colleague.
 
 [Merge-Conflict](https://github.com/MukulAIML/Merge-Conflict)
+
+
+## 14 Jan 2026 – Annotations & Reflections
+
+Gone through the study materials provided for the above topics.
+Learned the concepts and solved few questions.
+
+
+## 15 Jan 2026 – Questions 
+
+Solved the Annotations & Reflections questions given in the material.
+
+[Annotations](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Annotations)
+
+[Reflections](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Reflections)
