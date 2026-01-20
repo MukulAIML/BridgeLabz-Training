@@ -218,3 +218,11 @@ Solved the Annotations & Reflections questions given in the material.
 [Annotations](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Annotations)
 
 [Reflections](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/gcr-codebase/Reflections)
+
+
+## 15 Jan 2026 – Scenario-based Questions 
+
+Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JAVA concepts.
+
+[Conections Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
+
