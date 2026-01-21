@@ -1,0 +1,15 @@
+{
+	"Address Book": {
+		"Amit": [
+			{
+				"Zip": 828105,
+				"Address": "Dharjori",
+				"FirstName": "Amit",
+				"State": "Jharkhand",
+				"LastName": "Kumar",
+				"City": "Dhanbad",
+				"Mobile": 7205449249
+			}
+		]
+	}
+}
