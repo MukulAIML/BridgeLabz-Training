@@ -230,6 +230,7 @@ Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JA
 ## 19 Jan 2026 – Address-Book Problem 
 
 Practiced and halfly compleated the mentioned project using DSA, OOPS and core JAVA concepts.
+
 [Address-Book Problem](https://github.com/MukulAIML/BridgeLabz-Training/tree/9fdb162e67e7821fcfc7636e4920a8935f930605/OOPS/gcr-codebase/AddressBook)
 
 ## 20 Jan 2026 – Scenario-based Questions 
