@@ -259,3 +259,55 @@ Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JA
 Solved the 2 scenario based questions on OOPS section using DSA, OOPS and core JAVA concepts.
 
 [OOPS Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/scenario-based)
+
+
+## 24 Jan 2026 – CSV File Handeling
+
+Learned and practiced handeling CSV files in Java. Solved ample problems for the same.
+
+[CSV File Handeling](https://github.com/MukulAIML/BridgeLabz-Training/tree/IO-Programming/IO-Programming-practice/gcr-codebase/CSVDataHandeling)
+
+
+## 26 Jan 2026 – JSON
+
+Learned the concept of JSON and file handeling in it. Solved ample problems for the same.
+
+[JSON](https://github.com/MukulAIML/BridgeLabz-Training/tree/IO-Programming/IO-Programming-practice/gcr-codebase/JSON)
+
+
+## 27 Jan 2026 – Lambda Expression
+
+Learned about Lambda expression and done the assignment regarding the same.
+
+[Lambda Expression](https://github.com/MukulAIML/BridgeLabz-Training/tree/Java-8/Java-8-practice/gcr-codebase/Lambda%20Expression)
+
+
+## 28 Jan 2026 – Collectors & Interfaces
+
+Implemented the above comncepts by solving the assigned tasks. Gained basic knowledge about the same.
+
+[Collectors](https://github.com/MukulAIML/BridgeLabz-Training/tree/Java-8/Java-8-practice/gcr-codebase/Collectors)
+
+[Interfaces](https://github.com/MukulAIML/BridgeLabz-Training/tree/Java-8/Java-8-practice/gcr-codebase/Interfaces)
+
+
+## 29 Jan 2026 – Stream-API
+
+Implemented Stream API in the assignment given by solving ample solutions. Gained basic knowledge about the topic.
+
+[Stream-API](https://github.com/MukulAIML/BridgeLabz-Training/tree/Java-8/Java-8-practice/gcr-codebase/Stream%20API)
+
+
+## 30 Jan 2026 – Scenario-based Questions 
+
+Solved the 2 scenario based questions on Core-Java and OOPS section using DSA, OOPS and core JAVA concepts.
+
+One of them was Lexical Twist, Bank-Account test and AeroVigil
+
+[Lexical-Twist](https://github.com/MukulAIML/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java)
+
+[Collections-Scenario-Based](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/scenario-based)
+
+
+
+
