@@ -258,4 +258,4 @@ Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JA
 
 Solved the 2 scenario based questions on OOPS section using DSA, OOPS and core JAVA concepts.
 
-[oops Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/scenario-based)
+[OOPS Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/scenario-based)
