@@ -237,24 +237,25 @@ Practiced and halfly compleated the mentioned project using DSA, OOPS and core J
 
 Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JAVA concepts.
 
-[Conections Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
+[DSA Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
 
 
 ## 21 Jan 2026 – Scenario-based Questions 
 
 Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JAVA concepts.
 
-[Conections Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
+[DSA Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
 
 
 ## 22 Jan 2026 – Scenario-based Questions 
 
 Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JAVA concepts.
 
-[Conections Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
+[DSA Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
 
 
 ## 23 Jan 2026 – Scenario-based Questions 
 
 Solved the 2 scenario based questions on OOPS section using DSA, OOPS and core JAVA concepts.
 
+[oops Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/OOPS/OOPS/scenario-based)
