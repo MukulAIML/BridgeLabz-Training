@@ -309,5 +309,104 @@ One of them was Lexical Twist, Bank-Account test and AeroVigil
 [Collections-Scenario-Based](https://github.com/MukulAIML/BridgeLabz-Training/tree/Connections/connections-practice/scenario-based)
 
 
+## 2 Feb 2026 – Scenario-based Questions 
+
+Solved scenario based questions on Java-8 and OOPS section using DSA, OOPS and JAVA-8 concepts.
+
+One of them was Lexical Twist, Bank-Account test and AeroVigil
+
+[SmartCityTransportSystem]([https://github.com/MukulAIML/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java](https://github.com/MukulAIML/BridgeLabz-Training/blob/Java-8/Java-8-practice/scenario-base/SmartCityTransportSystem.java))
+
+
+## 3 Feb 2026 – Scenario-based Questions 
+
+Solved scenario based questions on Java-8 and OOPS section using DSA, OOPS and JAVA-8 concepts.
+
+One of them was OceanFleat.
+
+[OceanFleat](https://github.com/MukulAIML/BridgeLabz-Training/blob/Connections/connections-practice/scenario-based/OceanFleet.java)
+
+## 4 Feb 2026 - Multi-Threading
+
+Read the Multi-Threading material and solved the provided assignments.
+
+[Multi-Threading](https://github.com/MukulAIML/BridgeLabz-Training/tree/Multi-Threading/Multi-Threading-practice/gcr-codebase/Multi-Threading)
+
+
+## 5 Feb 2026 - SonarQubes
+
+Read about the Sonarqubes and solved few scenario-based questions.
+
+
+## 6 Feb 2026 - Power Skills Session
+
+Soft skills and Communication session. Done some Sonar project part.
+
+
+## 7 Feb 2026 - Sonar Project
+
+Compleated the Sonar Project and pushed it.
+
+[AddressBookSonarProject](https://github.com/MukulAIML/BridgeLabz-Training/tree/Multi-Threading/Multi-Threading-practice/scenario-base/AddressBookSonarProject)
+
+
+## 9 Feb 2026 - DBMS
+
+Gone through the DBMS material and done the HelthCareApp.
+
+[HealthCareApp](https://github.com/MukulAIML/BridgeLabz-Training/tree/DBMS/DBMS-practice/gcr-codebase)
+
+
+## 10 Feb 2026 - M1 Mock Exam
+
+M1 Mock exam was conducted on paper.
+
+
+## 11 Feb 2026 - Scenario-Based Question
+
+Solved scenario based questions on Java-8 and OOPS section using DSA, OOPS and JAVA-8 concepts.
+
+One of them was StreamBuzz.
+
+[StreamBUzz](https://github.com/MukulAIML/BridgeLabz-Training/blob/Connections/connections-practice/scenario-based/StreamBuzz.java)
+
+
+## 12 Feb 2026 - Scenario-Based Question
+
+Continued the scenario-based questions.
+
+## 13 Feb 2026 - Power Skills Session
+
+Soft skills and Communication session.
+
+
+## 14 Feb 2026 - Revision
+
+Gone through the previously proveded materials and revised the topics keeping M1 in mind.
+
+
+## 16 Feb 2026 - Revision
+
+Gone through the previously proveded materials and revised the topics keeping M1 in mind.
+
+
+## 17 Feb 2026 - Quantity Measurement App & Based
+
+Read through requirements and related concepts for quantity measurement app.
+
+
+## 18 Feb 2026 - M1 Mock Test
+
+M1 mock test.
+
+## 19 Feb 2026 - Quantity Measurement App
+
+Solved and submitted solutions for quantity measurement app:
+
+UC1
+UC2
+
+
+
 
 
