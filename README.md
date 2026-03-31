@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BridgeLabz-Training Daily Updates
 
 Daily record of the activities completed during the BridgeLabz training program.
@@ -226,3 +227,6 @@ Solved the 2 scenario based questions on DSA section using DSA, OOPS and core JA
 
 [Conections Scenario-based](https://github.com/MukulAIML/BridgeLabz-Training/tree/DSA/DSA/scenario-based)
 
+=======
+# BridgeLabz Training
+>>>>>>> core-java-practice
